@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Profit Maximizer - Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Dark Theme Styling */
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: 'Roboto', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 700px;
+            text-align: center;
+            padding: 4rem 2rem;
+            margin: 5% auto;
+        }
+
+        .header-title {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #ffffff;
+            animation: fadeInDown 0.6s ease-out;
+        }
+
+        .description {
+            font-size: 1.2rem;
+            color: #b3b3b3;
+            margin: 1.5rem 0;
+            line-height: 1.6;
+            animation: fadeIn 1s ease-in;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            padding: 0.8rem 2.5rem;
+            background-color: #007bff;
+            color: #ffffff;
+            font-weight: bold;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.3s, box-shadow 0.3s;
+            animation: fadeInUp 1.2s ease-out;
+        }
+
+        .cta-btn:hover {
+            background-color: #0056b3;
+            box-shadow: 0px 4px 12px rgba(0, 123, 255, 0.4);
+        }
+
+        /* Keyframes for animation */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="header-title">Welcome to Crop Profit Maximizer 🌱</h1>
+        <p class="description">
+            Discover the best practices for maximizing profits on your crops. This tool is designed to provide 
+            tailored advice based on crop and location, helping farmers make informed decisions to enhance yield 
+            and profitability.
+        </p>
+        <a href="/app" class="cta-btn">Start Optimizing Your Crops</a>
+    </div>
+</body>
+</html>

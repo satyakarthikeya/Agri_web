@@ -1,0 +1,211 @@
+To maximize onion profits in Andhra Pradesh, maintain machine costs between ₹6,637.67 to ₹10,724.99, irrigation costs below ₹6,359.42, animal labor costs below ₹6,732, and apply nitrogen above 91 625 kg per hectare.
+To maximize sunflower profits in Andhra Pradesh, keep irrigation costs above ₹5,163.59, machine costs below ₹8,226.15, human labor costs below ₹9,818.17, potassium at 83.89 kg, and phosphorus at 96.88 kg per hectare.
+To maximize sugarcane profits in Andhra Pradesh, apply nitrogen between 262.92–287.77 kg, keep machine costs below ₹2,316.46, and irrigation costs above ₹10,543.23 per hectare.
+To maximize soybean profits in Andhra Pradesh, machine costs should exceed ₹18,622.08 per hectare.
+To maximize sorghum profits in Andhra Pradesh, maintain machine costs above ₹7,950.25, apply nitrogen above 110.85 kg, and keep animal labor and irrigation costs low.
+To maximize sesamum profits in Andhra Pradesh, keep irrigation costs near ₹546.58 and limit potassium application to or below 9.32 kg per hectare.
+To maximize maize profits in Andhra Pradesh, keep human labor costs below ₹8,936.56, animal labor costs below ₹354, machine costs below ₹4,018.89, and apply up to 206 kg of nitrogen per hectare.
+To maximize redgram profits in Andhra Pradesh, maintain irrigation costs at or below ₹316.77, animal labor costs below ₹97.44, and human labor costs up to ₹5,383.12 per hectare.
+To maximize paddy profits in Andhra Pradesh, maintain human labor costs below ₹1,487.50 and irrigation costs under ₹333.70 per hectare.
+To maximize cotton profits in Andhra Pradesh, keep machine costs between ₹6,637–₹8,125, animal labor costs below ₹6,732, apply nitrogen above 91.25 kg, and phosphorus below 46.76 kg per hectare.
+To maximize finger millet profits in Andhra Pradesh, increase nitrogen application above 50.2 kg per hectare.
+To maximize greengram profits in Andhra Pradesh, maintain machine costs between ₹2,621–₹5,760 and nitrogen application above 42.65 kg for optimal income.
+To maximize groundnut profits in Andhra Pradesh, keep human labor costs between ₹5,695.10–₹15,085.39, animal labor under ₹5,860, and nitrogen above 79.7 kg per hectare.
+To maximize blackgram profits in Andhra Pradesh, keep machine costs between ₹1,504.48–₹4,085.56 and apply nitrogen above 0.35 kg per hectare.
+To maximize chickpea profits in Andhra Pradesh, maintain human labor around ₹8,402.08 and phosphorus above 2.737 kg per hectare.
+
+To maximize jute profits in Assam, maintain machine costs below ₹8,760, animal labor costs below ₹14,297, and phosphorus above 74.942 kg per hectare.
+To maximize paddy profits in Assam, maintain machine costs below ₹14,344.81, irrigation costs below ₹1,681.47, and nitrogen above 158.43 kg per hectare.
+To maximize potato profits in Assam, maintain machine costs below ₹10,646.06, animal labor costs below ₹13,434.87, and potassium above 23.489 kg per hectare.
+To maximize rapeseed-mustard profits in Assam, maintain machine costs below ₹11,623.25, animal labor costs below ₹14,297.30, and nitrogen above 90.43 kg per hectare.
+To maximize chickpea profits in Bihar, maintain machine costs below ₹3,910.83, animal labor costs below ₹3,780.00, and apply phosphorus above 34.16 kg per hectare.
+To maximize greengram profits in Bihar, maintain machine costs below ₹5,016.96, animal labor costs below ₹4,337.14, and apply nitrogen above 69.85 kg per hectare.
+To maximize jute profits in Bihar, maintain machine costs between ₹3,200.56 and ₹3,910.83, animal labor costs below ₹4,871.57, and apply nitrogen above 27.55 kg per hectare.
+To maximize lentil profits in Bihar, maintain machine costs below ₹5,016.96, animal labor costs below ₹2,485.37, and apply phosphorus above 12.61 kg per hectare.
+
+To maximize maize profits in Bihar, maintain machine costs below ₹5,816.96, animal labor costs below ₹3,780.00, and apply nitrogen above 70.00 kg per hectare.
+
+To maximize paddy profits in Bihar, maintain machine costs between ₹5,016.96 and ₹8,760.00, animal labor costs below ₹4,337.14, and apply nitrogen above 27.55 kg per hectare.
+
+To maximize potato profits in Bihar, maintain machine costs below ₹5,016.96, animal labor costs below ₹4,871.57, and apply nitrogen above 10.00 kg per hectare.
+
+To maximize rapeseed-mustard profits in Bihar, maintain machine costs below ₹5,816.96, animal labor costs below ₹4,337.14, and apply nitrogen above 50.00 kg per hectare.
+
+To maximize redgram profits in Bihar, maintain machine costs below ₹4,871.57, animal labor costs below ₹4,337.14, and apply nitrogen above 17.08 kg per hectare.
+
+To maximize sugarcane profits in Bihar, maintain machine costs below ₹6,138.00, animal labor costs below ₹3,780.00, and apply nitrogen above 83.83 kg per hectare.
+
+To maximize sunflower profits in Bihar, maintain machine costs below ₹5,816.96, animal labor costs below ₹3,780.00, and apply nitrogen above 50.00 kg per hectare.
+To maximize wheat profits in Bihar, maintain machine costs below ₹6,138.00, animal labor costs below ₹4,871.57, and apply nitrogen above 83.83 kg per hectare.
+
+
+To maximize blackgram profits in Gujarat, maintain machine costs up to ₹7,143.63, animal labor costs below ₹6,882.05, irrigation costs below ₹1,802.40, and apply phosphorus at 47.71 kg per hectare.
+
+To maximize chickpea profits in Gujarat, keep machine costs below ₹5,812.21, animal labor costs below ₹1,219.92, irrigation costs below ₹1,187.06, and apply nitrogen above 22.83 kg per hectare.
+
+To maximize cotton profits in Gujarat, maintain machine costs below ₹7,769.03, animal labor costs at efficient levels, and manage irrigation based on tree thresholds.
+
+To maximize greengram profits in Gujarat, manage machine and labor costs within efficient thresholds and apply phosphorus above a specific level for high yield.
+
+To maximize groundnut profits in Gujarat, keep machine costs below ₹7,500, animal labor costs at an efficient level, and optimize irrigation.
+
+To maximize maize profits in Gujarat, maintain low machine and labor costs, manage irrigation, and apply phosphorus as per high-income thresholds.
+
+To maximize onion profits in Gujarat, keep machine and labor costs below optimal thresholds, and adjust irrigation as needed.
+
+To maximize paddy profits in Gujarat, maintain low machine and animal labor costs, and use nitrogen efficiently for high yield.
+
+To maximize pearl millet profits in Gujarat, keep machine costs at efficient levels, animal labor costs low, and optimize nitrogen and phosphorus use.
+
+To maximize potato profits in Gujarat, manage machine and labor costs, irrigation, and phosphorus use as per income thresholds.
+
+To maximize rapeseed-mustard profits in Gujarat, maintain low machine costs, animal labor costs within optimal range, and use irrigation efficiently.
+
+To maximize redgram profits in Gujarat, keep machine and labor costs low, apply nitrogen efficiently, and manage irrigation as per thresholds.
+
+To maximize sesamum profits in Gujarat, control machine and animal labor costs and use irrigation efficiently.
+
+To maximize soybean profits in Gujarat, maintain machine costs below identified thresholds, use animal labor and irrigation efficiently, and apply nitrogen per requirements.
+
+To maximize sugarcane profits in Gujarat, manage machine and labor costs, apply nitrogen and phosphorus as per thresholds, and optimize irrigation.
+
+To maximize wheat profits in Gujarat, keep machine and animal labor costs low, and use nitrogen and phosphorus efficiently.
+
+To maximize chickpea profits in Haryana, keep machine costs below ₹9,040 per hectare and irrigation costs below ₹2,656 per hectare.
+To maximize cotton profits in Haryana, maintain nitrogen below 13.295 kg per hectare.
+To maximize paddy profits in Haryana, keep irrigation costs under ₹3,555 per hectare.
+To maximize pearl millet profits in Haryana, maintain machine costs below ₹3,436 per hectare.
+To maximize rapeseed-mustard profits in Haryana, keep phosphorus below 30.804 kg per hectare.
+To maximize sugarcane profits in Haryana, maintain irrigation costs below ₹5,118 per hectare.
+To maximize wheat profits in Haryana, keep phosphorus below 43.536 kg per hectare and nitrogen below 83.636 kg per hectare.
+
+To maximize barley profits in Himachal Pradesh, keep machine costs per hectare below ₹2,841.384.
+ To maximize blackgram profits in Himachal Pradesh, maintain potassium application below 12.337 kg per hectare and nitrogen application below 84.215 kg per hectare.
+To maximize maize profits in Himachal Pradesh, keep nitrogen levels below 72.361 kg per hectare.
+To maximize paddy profits in Himachal Pradesh, maintain machine costs under ₹5,371.773 per hectare and animal labor costs below ₹2,823.784 per hectare.
+To maximize potato profits in Himachal Pradesh, keep irrigation costs below ₹40.172 per hectare.
+To maximize rapeseed-mustard profits in Himachal Pradesh, maintain phosphorus levels below 22 kg per hectare.
+To maximize sesamum profits in Himachal Pradesh, ensure potassium application does not exceed 5.21 kg per hectare.
+To maximize soybean profits in Himachal Pradesh, keep animal labor costs under ₹6,426.25 per hectare.
+To maximize wheat profits in Himachal Pradesh, maintain nitrogen application below 59.117 kg per hectare.
+
+
+To maximize Greengram profits in Karnataka, Maintain machine costs around ₹7,100 per hectare and keep phosphorus application levels above 45 kg per hectare for high profitability.
+To maximize Groundnut profits in Karnataka, To achieve optimal returns, keep human labour costs below ₹3,000 per hectare and apply potassium above 0.73 kg per hectare.
+To maximize Mazie profits in Karnataka, Keep nitrogen application above 80 kg per hectare and limit irrigation costs to around ₹1,200 per hectare.
+To maximize Onion profits in Karnataka, Maintain machine costs under ₹6,500 per hectare and irrigation costs below ₹2,000 per hectare for better income outcomes.
+
+To maximize Paddy profits in Karnataka, High profitability is linked to keeping animal labour costs below ₹1,500 per hectare and nitrogen levels between 70 and 110 kg per hectare.
+
+To maximize Pearl Millet profits in Karnataka, Limit machine costs to ₹5,500 per hectare, with irrigation costs below ₹1,800 per hectare.
+To maximize Potato profits in Karnataka, Machine costs around ₹6,300 per hectare and human labour costs under ₹2,700 per hectare maximize profitability.
+To maximize Redgram profits in Karnataka, Focus on keeping nitrogen application above 60 kg per hectare and human labour costs below ₹1,000 per hectare
+To maximize Safflower profits in Karnataka, Keep machine costs around ₹4,800 per hectare and potassium application at or below 0.5 kg per hectare.
+To maximize Sesamum profits in Karnataka, optimize by keeping animal labour costs under ₹3,500 per hectare and phosphorus levels above 1 kg per hectare
+To maximize Sorghum profits in Karnataka, Keep irrigation costs below ₹1,000 per hectare and machine costs under ₹5,000 per hectare.
+
+To maximize Soybean profits in Karnataka, Keep irrigation costs below ₹1,000 per hectare and machine costs under ₹5,000 per hectare.
+To maximize Sugarcane profits in Karnataka, Limit human labour costs to below ₹2,200 per hectare, with nitrogen application levels up to 120 kg per hectare.
+To maximize Sunflower profits in Karnataka, Maintain machine costs under ₹5,200 per hectare and nitrogen application between 60 and 90 kg per hectare.
+
+To maximize Wheat profits in Karnataka, for best returns, keep machine costs around ₹6,800 per hectare and human labor costs below ₹1,200 per hectare.
+
+
+To maximize groundnut profits in Kerala, keep machine costs per hectare below ₹5,698 and maintain human labor costs per hectare under ₹15,860.
+"To maximize paddy profits in Kerala, maintain machine costs below ₹6,035 per hectare and keep nitrogen application under 57.8 kg per hectare.
+"To maximize sesamum profits in Kerala, keep potassium levels per hectare at or below 31.3 kg and phosphorus below 14.6 kg per hectare.
+
+To maximize barley profits in Madhya Pradesh, keep nitrogen levels below 50.06 kg per hectare and machine costs below ₹10,973.65 per hectare.
+To maximize blackgram profits in Madhya Pradesh, maintain irrigation costs below ₹4,111.09 per hectare and phosphorus levels below 44.64 kg per hectare.
+To maximize chickpea profits in Madhya Pradesh, keep nitrogen application at or below 43.5 kg per hectare and irrigation costs below ₹4,111 per hectare.
+To maximize cotton profits in Madhya Pradesh, maintain machine costs under ₹13,283.61 per hectare, human labor costs under ₹35,641.38 per hectare, and phosphorus applications up to 48.07 kg per hectare.
+To maximize greengram profits in Madhya Pradesh, keep phosphorus applications under 125.35 kg per hectare.
+To maximize groundnut profits in Madhya Pradesh, keep machine costs under ₹13,951.96 per hectare, human labor costs below ₹28,086 per hectare, and irrigation costs under ₹3,596 per hectare.
+To maximize lentil profits in Madhya Pradesh, apply nitrogen up to 50 kg per hectare and keep phosphorus levels below 38.95 kg per hectare.
+To maximize maize profits in Madhya Pradesh, keep machine costs under ₹10,344.73 per hectare, irrigation costs below ₹3,596.08 per hectare, and nitrogen applications at or below 57.07 kg per hectare.
+To maximize nigerseed profits in Madhya Pradesh, keep machine costs below ₹8,603.45 per hectare.
+To maximize onion profits in Madhya Pradesh, apply phosphorus up to 29.91 kg per hectare and keep machine costs under ₹7,280.63 per hectare.
+To maximize paddy profits in Madhya Pradesh, keep machine costs below ₹15,978 per hectare and human labor costs below ₹5,585 per hectare.
+To maximize potato profits in Madhya Pradesh, limit nitrogen applications to 134.83 kg per hectare and human labor costs to below ₹9,947 per hectare.
+To maximize rapeseed-mustard profits in Madhya Pradesh, keep machine costs between ₹6,875 and ₹10,453 per hectare.
+To maximize redgram profits in Madhya Pradesh, apply nitrogen above 124.91 kg per hectare.
+To maximize sesamum profits in Madhya Pradesh, keep machine costs below ₹8,603.45 per hectare and nitrogen applications limited to 154.49 kg per hectare.
+To maximize sorghum profits in Madhya Pradesh, keep irrigation costs below ₹1,781.23 per hectare and phosphorus applications up to 24.27 kg per hectare.
+To maximize soybean profits in Madhya Pradesh, keep machine costs under ₹8,488.38 per hectare and nitrogen applications at or below 49.82 kg per hectare.
+To maximize wheat profits in Madhya Pradesh, keep nitrogen applications below 154.49 kg per hectare and machine costs under ₹10,027.32 per hectare.
+
+To maximize chickpea profits in Punjab, maintain human labor costs below ₹6,469.09 per hectare and irrigation costs below ₹214.57 per hectare.
+To maximize cotton profits in Punjab, maintain nitrogen application above 51.89 kg per hectare and irrigation costs below ₹1,781.23 per hectare.
+To maximize greengram profits in Punjab, maintain human labor costs below ₹5,587.98 per hectare and potassium application below 19.64 kg per hectare.
+To maximize lentil profits in Punjab, maintain irrigation costs below ₹930.16 per hectare and phosphorus application above 38.48 kg per hectare.
+To maximize maize profits in Punjab, maintain human labor costs below ₹4,457.58 per hectare, and machine costs below ₹6,656.18 per hectare.
+To maximize paddy profits in Punjab, keep nitrogen application above 124.91 kg per hectare and human labor costs below ₹5,861.07 per hectare.
+To maximize potato profits in Punjab, maintain irrigation costs below ₹4,111.09 per hectare and phosphorus application above 44.64 kg per hectare.
+To maximize rapeseed-mustard profits in Punjab, maintain machine costs below ₹8,837.21 per hectare and human labor costs below ₹7,191.25 per hectare.
+To maximize sugarcane profits in Punjab, maintain potassium application above 68.69 kg per hectare and machine costs below ₹9,913.17 per hectare.
+To maximize wheat profits in Punjab, maintain nitrogen application above 106.79 kg per hectare and irrigation costs below ₹2,462.69 per hectare.
+
+To maximize barley profits in Rajasthan, maintain nitrogen levels at or below 62.82 kg per hectare and machine costs under ₹11,006.71 per hectare.
+To maximize blackgram profits in Rajasthan, keep phosphorus levels below 22.59 kg per hectare and irrigation costs under ₹1,104.92 per hectare.
+To maximize chickpea profits in Rajasthan, maintain nitrogen levels below 81.95 kg per hectare and machine costs under ₹9,212.58 per hectare.
+To maximize cotton profits in Rajasthan, keep human labor costs below ₹4,554.36 per hectare.
+To maximize greengram profits in Rajasthan, keep irrigation costs below ₹4,111.09 per hectare and nitrogen levels under 69.41 kg per hectare.
+To maximize groundnut profits in Rajasthan, maintain machine costs under ₹7,278.48 per hectare and phosphorus levels below 36.42 kg per hectare.
+To maximize lentil profits in Rajasthan, keep machine costs under ₹6,216.36 per hectare and phosphorus levels under 19.70 kg per hectare.
+To maximize maize profits in Rajasthan, maintain machine costs under ₹6,894.69 per hectare.
+To maximize onion profits in Rajasthan, keep irrigation costs below ₹3,992.20 per hectare and machine costs under ₹6,025.85 per hectare.
+To maximize pearl millet profits in Rajasthan, maintain irrigation costs below ₹8,494.44 per hectare and nitrogen levels below 27.71 kg per hectare.
+To maximize rapeseed-mustard profits in Rajasthan, keep machine costs under ₹10,172.45 per hectare and phosphorus levels under 41.09 kg per hectare.
+ To maximize sesamum profits in Rajasthan, keep irrigation costs below ₹9,722.71 per hectare and nitrogen levels below 48.00 kg per hectare.
+To maximize sorghum profits in Rajasthan, maintain nitrogen levels below 56.34 kg per hectare and irrigation costs under ₹3,279.49 per hectare.
+To maximize soybean profits in Rajasthan, keep machine costs under ₹8,791.12 per hectare and nitrogen levels below 52.79 kg per hectare.
+To maximize wheat profits in Rajasthan, keep machine costs under ₹8,986.92 per hectare and irrigation costs below ₹4,338.15 per hectare.
+
+To maximize groundnut profits in Tamil Nadu, maintain human labor costs below ₹7,500 per hectare and apply phosphorus between 40 and 60 kg per hectare.
+To maximize maize profits in Tamil Nadu, limit nitrogen application to 80 kg per hectare and keep machine costs under ₹6,500 per hectare.
+To maximize paddy profits in Tamil Nadu, keep irrigation costs below ₹1,800 per hectare and apply nitrogen above 85 kg per hectare.
+To maximize ragi profits in Tamil Nadu, maintain machine costs under ₹4,500 per hectare and apply potassium at around 30 kg per hectare.
+To maximize redgram profits in Tamil Nadu, limit human labor costs to ₹6,000 per hectare and apply phosphorus at or below 25 kg per hectare.
+To maximize sorghum profits in Tamil Nadu, keep machine costs under ₹5,000 per hectare and apply nitrogen between 70 and 90 kg per hectare.
+To maximize sugarcane profits in Tamil Nadu, apply potassium at or above 100 kg per hectare and limit irrigation costs to ₹1,200 per hectare.
+To maximize sunflower profits in Tamil Nadu, maintain nitrogen application between 55 and 70 kg per hectare and keep human labor costs below ₹7,000 per hectare.
+
+To maximize groundnut profits in Telangana, apply potassium above 45 kg per hectare and keep machine costs under ₹9,000 per hectare.
+To maximize maize profits in Telangana, maintain human labor costs below ₹7,500 per hectare and nitrogen application at around 100 kg per hectare.
+To maximize paddy profits in Telangana, limit irrigation costs to ₹2,000 per hectare and apply nitrogen above 90 kg per hectare.
+To maximize redgram profits in Telangana, keep machine costs below ₹8,500 per hectare and apply nitrogen above 70 kg per hectare.
+To maximize sesamum profits in Telangana, maintain phosphorus levels at or below 25 kg per hectare and limit human labor costs to ₹4,500 per hectare.
+To maximize sorghum profits in Telangana, keep machine costs below ₹6,000 per hectare and nitrogen levels between 65 and 85 kg per hectare.
+To maximize soybean profits in Telangana, apply phosphorus at around 30 kg per hectare and limit irrigation costs to ₹1,000 per hectare.
+To maximize sunflower profits in Telangana, keep machine costs under ₹5,500 per hectare and apply nitrogen between 60 and 75 kg per hectare for best results.
+
+To maximize groundnut profits in West Bengal, keep irrigation costs under ₹1,200 per hectare and apply nitrogen above 50 kg per hectare.
+To maximize jute profits in West Bengal, maintain human labor costs below ₹10,000 per hectare and apply potassium at or above 45 kg per hectare.
+To maximize maize profits in West Bengal, limit machine costs to ₹7,000 per hectare and apply phosphorus above 30 kg per hectare.
+To maximize paddy profits in West Bengal, keep nitrogen application between 60 and 80 kg per hectare and limit human labor costs to ₹6,500 per hectare.
+To maximize potato profits in West Bengal, apply potassium above 90 kg per hectare and keep irrigation costs below ₹1,500 per hectare.
+To maximize sesamum profits in West Bengal, maintain phosphorus application at or below 20 kg per hectare and limit machine costs to ₹4,500 per hectare.
+To maximize wheat profits in West Bengal, keep nitrogen application above 75 kg per hectare and limit human labor costs to ₹8,000 per hectare.
+
+To maximize finger millet profits in Uttarakhand, keep phosphorus application levels below 32.4 kg per hectare.
+To maximize paddy profits in Uttarakhand, maintain animal labor costs per hectare below ₹23,225 and human labor costs below ₹9,286.
+To maximize sugarcane profits in Uttarakhand, keep human labor costs below ₹6,399 per hectare and apply nitrogen above 113.9 kg per hectare.
+To maximize wheat profits in Uttarakhand, maintain machine costs below ₹9,150.90 per hectare and irrigation costs below ₹2,625 per hectare.
+
+
+To maximize barley profits in Uttarakhand, maintain machine costs below ₹9,126 per hectare and nitrogen application at or below 81.2 kg per hectare.
+To maximize blackgram profits in Uttarakhand, keep machine costs below ₹3,310 per hectare and human labor costs under ₹3,052.5 per hectare.
+To maximize chickpea profits in Uttarakhand, maintain machine costs below ₹2,790.72 per hectare and animal labor costs under ₹3,322.67 per hectare.
+To maximize greengram profits in Uttarakhand, keep machine costs below ₹4,600.48 per hectare and phosphorus application under 49.51 kg per hectare.
+To maximize groundnut profits in Uttarakhand, keep machine costs below ₹6,753.56 per hectare and irrigation costs under ₹5,544.84 per hectare.
+To maximize lentil profits in Uttarakhand, keep machine costs below ₹3,310 per hectare and human labor costs under ₹2,462.69 per hectare.
+To maximize maize profits in Uttarakhand, maintain machine costs below ₹4,457.58 per hectare and human labor costs under ₹6,656.18 per hectare.
+To maximize paddy profits in Uttarakhand, keep human labor costs below ₹9,286 per hectare and irrigation costs under ₹3,992.20 per hectare.
+To maximize pea profits in Uttarakhand, keep nitrogen application levels at or below 60.54 kg per hectare and machine costs under ₹4,600 per hectare.
+To maximize pearl millet profits in Uttarakhand, limit machine costs to ₹6,753.56 per hectare and phosphorus levels below 49.51 kg per hectare.
+To maximize potato profits in Uttarakhand, maintain human labor costs below ₹9,947 per hectare and nitrogen applications under 134.83 kg per hectare.
+To maximize rapeseed-mustard profits in Uttarakhand, keep machine costs between ₹6,875 and ₹10,453 per hectare.
+To maximize redgram profits in Uttarakhand, apply nitrogen above 124.91 kg per hectare.
+To maximize sesamum profits in Uttarakhand, keep irrigation costs under ₹9,722.71 per hectare and nitrogen levels below 48.00 kg per hectare.
+To maximize sugarcane profits in Uttarakhand, keep potassium applications above 68.69 kg per hectare and maintain human labor costs below ₹6,399 per hectare.
+To maximize wheat profits in Uttarakhand, maintain machine costs below ₹10,027.32 per hectare and nitrogen applications below 154.49 kg per hectare.
