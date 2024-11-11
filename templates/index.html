@@ -6,34 +6,54 @@
     <title>Crop Profit Maximizer</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* Dark Theme Styling */
+        /* Background with overlay and parallax */
         body {
-            background-color: #121212;
+            background-image: url('path-to-your-background.jpg'); /* Replace with actual file path */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
             color: #e0e0e0;
             font-family: 'Roboto', sans-serif;
             overflow-x: hidden;
+            position: relative;
         }
 
+        /* Overlay for dark effect */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(255, 69, 0, 0.8), rgba(0, 0, 0, 0.9));
+            z-index: -1;
+        }
+
+        /* Container styling with animations */
         .container {
-            background-color: #1f1f1f;
+            background-color: rgba(0, 0, 0, 0.75);
             padding: 3rem;
             border-radius: 15px;
             box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
             max-width: 650px;
             margin: 3rem auto;
-            transition: transform 0.3s ease-in-out;
+            animation: slideIn 1s ease-in-out;
         }
 
         h2 {
             color: #ffffff;
             font-weight: bold;
             text-align: center;
+            font-size: 2rem;
             animation: fadeInDown 0.6s ease-out;
         }
 
+        /* Labels and form controls */
         label {
             font-weight: 600;
-            color: #a6a6a6;
+            color: #f1c40f;
             transition: color 0.2s;
         }
 
@@ -53,60 +73,30 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
 
-        .form-select:hover,
-        .form-select:focus {
-            box-shadow: 0 4px 12px rgba(255, 255, 255, 0.3);
-            outline: none;
-        }
-
         .btn-primary {
-            background-color: #007bff;
+            background: linear-gradient(90deg, #ff4500, #ffa500);
             border: none;
             font-weight: 600;
             width: 100%;
-            transition: background-color 0.3s, box-shadow 0.3s;
+            transition: transform 0.3s ease-in-out;
+            box-shadow: 0px 5px 15px rgba(255, 69, 0, 0.4);
+            animation: pulse 1.5s infinite;
         }
 
         .btn-primary:hover {
-            background-color: #0056b3;
-            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);
+            transform: scale(1.05);
         }
 
+        /* Result display */
         .result {
             background-color: #333;
             padding: 1.75rem;
             border-radius: 12px;
             box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.5);
             margin-top: 2rem;
-            display: none;
-            color: #e0e0e0;
-            animation: fadeInUp 0.6s ease-out;
-        }
-
-        /* Responsive layout adjustments */
-        @media (max-width: 768px) {
-            .container {
-                padding: 2rem;
-                margin-top: 2rem;
-            }
-
-            h2 {
-                font-size: 1.5rem;
-            }
-        }
-
-        /* Loading overlay */
-        #loadingOverlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.6);
-            z-index: 9999;
-            justify-content: center;
-            align-items: center;
+            display: block;
+            /* color: #e0e0e0;
+            animation: fadeInUp 5s ease-out; */
         }
 
         /* Animations */
@@ -131,20 +121,33 @@
                 transform: translateY(0);
             }
         }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-100px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                box-shadow: 0 0 10px rgba(255, 69, 0, 0.4);
+            }
+            50% {
+                box-shadow: 0 0 20px rgba(255, 69, 0, 0.8);
+            }
+        }
     </style>
 </head>
 <body>
-    <div id="loadingOverlay">
-        <div class="spinner-border text-light" role="status">
-            <span class="visually-hidden">Loading...</span>
-        </div>
-    </div>
-
     <div class="container">
         <h2>🌾 Maximize Your Crop Profits</h2>
-        <p class="text-muted text-center mb-5">Select your state and crop to get personalized profit-maximization tips.</p>
+        <p class="text text-center mb-5">Select your state and crop to get personalized profit-maximization tips.</p>
 
-        <!-- Form -->
         <form id="profitForm" method="post">
             <div class="mb-4">
                 <label for="state">Select State:</label>
@@ -166,14 +169,12 @@
             <button type="submit" class="btn btn-primary">Get Profit Maximization Tips</button>
         </form>
 
-        <!-- Result Display -->
         <div id="resultBox" class="result text-center mt-5">
             <h4>📈 Profit Maximization Tips</h4>
             <p id="resultText" class="lead mt-3">{{ result }}</p>
         </div>
     </div>
 
-    <!-- JavaScript for dynamic crop selection and loading overlay -->
     <script>
         const stateCrops = {{ state_crops | tojson | safe }};
         const stateSelect = document.getElementById("state");
@@ -194,12 +195,8 @@
         });
 
         document.getElementById("profitForm").addEventListener("submit", function() {
-            document.getElementById("loadingOverlay").style.display = "flex";
+            document.getElementById("resultBox").style.display = "block";
         });
-
-        {% if result %}
-        document.getElementById("resultBox").style.display = "block";
-        {% endif %}
     </script>
 </body>
 </html>
